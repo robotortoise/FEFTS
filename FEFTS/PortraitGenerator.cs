@@ -70,7 +70,7 @@ namespace FEFTS
                             Value = Character,
                             Text = Names.ContainsKey(Character) ? Names[Character] : Character
                         };
-                        if (!ncbi.Text.Contains("マイユニ") && ncbi.Text != "Kanna")
+                        if (!ncbi.Text.Contains("マイユニ") && ncbi.Text != "Kana")
                         {
                             if (Characters[i].All(cbi => cbi.Text != ncbi.Text) && Characters[i].All(cbi => cbi.Value != ncbi.Value))
                                 Characters[i].Add(ncbi);
@@ -78,8 +78,8 @@ namespace FEFTS
                     }
                 }
                 Characters[i].Add(new cbItem { Text = "Corrin", Value = "username" });
-                Characters[i].Add(new cbItem { Text = "Kanna (M)", Value = "カンナ男" });
-                Characters[i].Add(new cbItem { Text = "Kanna (F)", Value = "カンナ女" });
+                Characters[i].Add(new cbItem { Text = "Kana (M)", Value = "カンナ男" });
+                Characters[i].Add(new cbItem { Text = "Kana (F)", Value = "カンナ女" });
                 Characters[i] = Characters[i].OrderBy(cbi => cbi.Text).ToList();
             }
             CB_Character.DisplayMember = "Text";

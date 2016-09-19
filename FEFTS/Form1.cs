@@ -184,7 +184,7 @@ namespace FEFTS
                     MSG = res.Item1;
                     if (res.Item2.NumParams > 0)
                         if (res.Item2.Params[0] == "ベロア")
-                            res.Item2.Params[0] = "べロア"; // Velour Fix
+                            res.Item2.Params[0] = "べロア"; // Velouria Fix
                     switch (res.Item2.CMD)
                     {
                         case "$E":
