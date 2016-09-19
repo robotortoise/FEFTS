@@ -64,6 +64,7 @@
 フォレオ	Forrest
 イグニス	Ignatius
 ベロア	Velouria
+ベロア	Velouria
 ルッツ	Percy
 オフェリア	Ophelia
 ソレイユ	Soleil
@@ -250,7 +251,7 @@ CASTLE_黒村人女	Shopkeep
 忍	Ninja
 虹の賢者	Rainbow Sage
 カシータ	Cassita
-フードマン	???
+フードマン	Hooded Anankos
 マルス	Marth
 アイク	Ike
 ルキナ	Lucina

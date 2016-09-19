@@ -76,8 +76,8 @@
             this.RTB_Line.Name = "RTB_Line";
             this.RTB_Line.Size = new System.Drawing.Size(379, 119);
             this.RTB_Line.TabIndex = 1;
-            this.RTB_Line.Text = "$t1$Wmキヌ|3$w0|$Wsキヌ|$Wa$E差分,|This is an example conversation.$k$p$" +
-                "Wmクロム左|7$w0|$Wsクロム左|$Wa$E笑,|It takes place between Selkie and Chrom.$k";
+            this.RTB_Line.Text = "$t1$Wmキヌ|3$w0|$Wsキヌ|$Wa$E差分,|This is an example conversation.$k$p$Wmクロム左|7$w0|$Ws" +
+    "クロム左|$Wa$E笑,|It takes place between Selkie and Chrom.$k";
             this.RTB_Line.TextChanged += new System.EventHandler(this.RTB_Line_TextChanged);
             // 
             // B_Reload

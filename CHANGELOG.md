@@ -1,0 +1,52 @@
+# V1.2.2 Changelog
+
+- Renamed Hooded Anankos from "???" to "Hooded Anankos".
+
+- Removed an empty bullet point in the changelog. Moved said changelog to its own file as to not clutter up the Github page.
+
+- Retook example screenshot.
+
+- Updated icon.
+
+
+# V1.2.1 Changelog
+
+- Optimized PNGs to save a bit of memory and hopefully boot a bit faster.
+
+- Changed default conversation to something absurd (Selkie/Chrom) to better show the benefits of the program.
+
+- Changed name to "Fire Emblem Fates Text Simulator".
+
+- Localized Reference Guide and stored it locally.
+
+- Added a changelog (which you are reading).
+
+
+# V1.2 Changelog
+
+-Localized the names to fit the official names Nintendo of America gave the international version of Fire Emblem Fates.
+
+-Added Fire Emblem Awakening and Fire Emblem Fates' font, Chiaro Std B Bold, to the resources folder, so it may be used in the future for text instead of the PNG.
+
+
+# V1.1 Changelog
+
+- Added support for more DLC characters.
+
+- Added support for Corrin facial features and accessories.
+
+- Added a Background feature for conversations (the in-game Supports barrack is the default).
+
+- Added an icon to the program.
+
+- FEFTS now grays out the inactive character for game accuracy.
+
+- FEFTS now enforces game-accurate text cropping (characters get cut-off if the line goes too long).
+
+- Fixed a bug involving Velouria not showing up properly.
+
+- Fixed a bug involving Corrin "bu" closeup portraits in the simulator (Portrait Generator was unaffected).
+
+- Fixed a bug involving the "Previous" button functioning incorrectly.
+
+- Further improvements to overall system stability, system security, and other minor adjustments have been made to enhance the user experience.
