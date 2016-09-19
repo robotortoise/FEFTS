@@ -47,7 +47,8 @@
 フローラ	Flora
 ナハト	Nichol
 モズメ	Mozu
-カンナ	Kana
+カンナ女	Kana
+カンナ男	Kana
 シグレ	Shigure
 ディーア	Dwyer
 ゾフィー	Sophie
@@ -64,7 +65,7 @@
 フォレオ	Forrest
 イグニス	Ignatius
 ベロア	Velouria
-ベロア	Velouria
+べロア	Velouria
 ルッツ	Percy
 オフェリア	Ophelia
 ソレイユ	Soleil

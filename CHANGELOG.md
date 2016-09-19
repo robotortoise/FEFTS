@@ -1,3 +1,7 @@
+# V1.2.3 Changelog
+
+- Fixed Velouria, Kana(F), and Kana(M) to display properly in the portrait generator and the text generator.
+
 # V1.2.2 Changelog
 
 - Renamed Hooded Anankos from "???" to "Hooded Anankos".
