@@ -98,7 +98,7 @@ namespace FEFTS
 
             CB_Corrin.SelectedIndex = CB_TB.SelectedIndex = CB_Eyes.SelectedIndex = CB_HairStyle.SelectedIndex = CB_FacialFeature.SelectedIndex = CB_Accessory.SelectedIndex = 0;
 
-            MTB_HairColorA.Text = MTB_HairColorB.Text = "#5B5855";
+            MTB_HairColorA.Text = MTB_HairColorB.Text = "#F6F4EF";
             BACKGROUND_IMAGE = Resources.SupportBG.Clone() as Bitmap;
 
             PB_TextBox.AllowDrop = true;
