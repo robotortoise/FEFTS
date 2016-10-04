@@ -163,7 +163,7 @@ EMOTION GUIDE
 苦 - Suffering (about to take heavy damage)
 笑 - Laughing
 キメ - Great (advantage in battle)
-やけくそ - Desperate (yelling, like when Sakura yells at Kazahana and Tsubaki to shut up)
+やけくそ - Desperate (yelling, like when Sakura yells at Hana and Subaki to shut up)
 囚 - Possessed/angry (think Takumi)
 
 -------------------------------------------------------------------------------------------
@@ -184,8 +184,8 @@ username - Corrin (gender, etc, determined in app)
 
 2nd Generation/Children:
 
-カンナ男 - Kanna (Female)
-カンナ女 - Kanna (Male)
+カンナ男 - Kana (Female)
+カンナ女 - Kana (Male)
 ディーア - Dweyer
 ミドリコ - Midori 
 シグレ - Shigure
@@ -244,7 +244,7 @@ NOHR CHARACTERS
 フローラ - Flora
 ギュンター - Gunther
 ハロルド - Arthur
-ラズワルド - Lazlow
+ラズワルド - Laslow
 レ オン - Leo
 ルーナ - Serena
 マークス - Xander
@@ -284,7 +284,7 @@ Alternate Forms:
 ミコト影 - Mikoto's Shadow
 シェンメイ影 - Arete's Shadow
 スメラギ影 - Sumeragi's Shadow
-スライムガロン - Slime Garon
+スライムガロン - Empty Vessel Garon
 
 Extra Characters:
 
@@ -317,7 +317,7 @@ BOSSES
 -------------------------------------------------------------------------------------------
 
 クーリア - Kilma 
-フウガ - Fuga (recruitable in Invisible Kingdom path)
+フウガ - Fuga (recruitable in Revelation)
 コタロウ - Kotarou 
 
 -------------------------------------------------------------------------------------------
@@ -334,7 +334,7 @@ ENEMIES + VILLAGERS
 -------------------------------------------------------------------------------------------
 
 ノスフェラトゥ - Faceless
-ゴーレム - Golem 
+ゴーレム - Stoneborn
 
 村人おじいさん白 - Hoshidian Old Man (Elder)
 村人おばさん白 - Hoshidian Old Woman 
@@ -352,23 +352,23 @@ DRAGONS
 -------------------------------------------------------------------------------------------
 
 面をつけた透魔竜 - Anankos
-暗夜竜 - Dark Dragon (Nohr)
+暗夜竜 - Blight Dragon
 竜の状態の透魔竜 - Anankos
 
 -------------------------------------------------------------------------------------------
 DLC
 -------------------------------------------------------------------------------------------
 
-Chrom (1): クロム右
-Chrom (2): クロム左
-Lissa: リズ
-Frederick: フレデリク
-Gold Faceless: 金ノスフェラトゥ
-Owain: ウード
-Inigo: アズール
-Severa: セレナ
-Lilith: 影リリス
-Anankos: 善ハイドラ
+クロム右 - Chrom (1)
+クロム左 - Chrom (2)
+リズ - Lissa
+フレデリク - Frederick
+金ノスフェラトゥ - Gold Faceless
+ウード - Owain
+アズール -Inigo
+セレナ - Severa
+影リリス - Lilith
+善ハイドラ - Anankos (Hooded)
 
 -------------------------------------------------------------------------------------------
 GENERICS
@@ -403,7 +403,7 @@ Male Generic:
 槍聖男 - Holy Lancer
 ランサー男 - Lance Fighter (Nohr)
 槍術士男 - Lance Fighter (Hoshido)
-マーナガルム男 - Mega Garou/Golem
+マーナガルム男 - Slime Garon
 マーシナリー男 - Mercenary
 山伏男 - Mountain Priest
 九尾の狐男 - Nine-tailed Fox 
@@ -411,7 +411,7 @@ Male Generic:
 鬼人男 - Oni
 修羅男 - Oni Fighter
 パラディン男 - Paladin
-絡繰師 - Puppeteer
+絡繰師 - Mechanist
 レヴナントナイト男 - Revenant Knight
 侍男 - Samurai
 呪い師男 - Spellcaster
@@ -442,8 +442,6 @@ NOT-WORKING/UNCONFIRMED/TOO LAZY TO CHECK UNITS
 ガザック - Gazzak
 異界の人物 - Outrealm Unit
 ハイドラ - Anankos (no portrait)
-(Velouria may also be broken)
-Tamagura may not even be in here (is he even a character?)
 
 -------------------------------------------------------------------------------------------
 PORTRAIT GENERATOR JAPANESE UNITS (IN ORDER)
@@ -502,7 +500,7 @@ PORTRAIT GENERATOR JAPANESE UNITS (IN ORDER)
 槍聖男 - Holy Lancer
 槍術士男 - Lance Fighter (Hoshidian)
 竜の状態の透魔竜 - Anankos
-絡繰人形 - Puppet 
+絡繰人形 - Replica 
 絡繰師 - Mechanist
 聖天馬武者女 - Holy Pegasus Warrior
 薬商人男 - Herb Merchant
@@ -510,4 +508,4 @@ PORTRAIT GENERATOR JAPANESE UNITS (IN ORDER)
 鍛冶男 - Blacksmith
 陰陽師男 - Exorcist
 面をつけた透魔竜 - Anankos
-鬼人男 - Oni
+鬼人男 - Oni Sage
