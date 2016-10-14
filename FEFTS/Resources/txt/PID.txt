@@ -259,8 +259,8 @@ CASTLE_黒村人女	Shopkeep
 ルフレ	Robin
 ？？？	???
 クロム	Chrom
-クロム右	Chrom
-クロム左	Chrom
+クロム右	Chrom(right)
+クロム左	Chrom(left)
 リズ	Lissa
 フレデリク	Frederick
 金ノスフェラトゥ	Gold Faceless
@@ -268,4 +268,4 @@ CASTLE_黒村人女	Shopkeep
 アズール	Inigo
 セレナ	Severa
 影リリス	Lilith
-善ハイドラ	Hydra
+善ハイドラ	Anankos
