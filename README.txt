@@ -4,6 +4,7 @@ Fire Emblem Fates Text Simulator
 
 Forked from https://github.com/SciresM/FEITS .
 Credit to SciresM for the original program. I only localized the names and fixed a few things.
+Special thanks to deventio7 for creating the script that renames Fates portraits properly!
 
 
 ![FEFTS](/FEFTS/Resources/img/example_conversation_preview.png)
