@@ -273,6 +273,8 @@
             // CHK_UseBackgrounds
             // 
             this.CHK_UseBackgrounds.AutoSize = true;
+            this.CHK_UseBackgrounds.Checked = true;
+            this.CHK_UseBackgrounds.CheckState = System.Windows.Forms.CheckState.Checked;
             this.CHK_UseBackgrounds.Location = new System.Drawing.Point(148, 531);
             this.CHK_UseBackgrounds.Name = "CHK_UseBackgrounds";
             this.CHK_UseBackgrounds.Size = new System.Drawing.Size(125, 17);

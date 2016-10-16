@@ -1,3 +1,11 @@
+# V1.2.5 Changelog
+
+- Changed Anankos's Japanese name of "Hydra" to English.
+
+- Added left and right Chrom portraits. (Thanks, BreakinBenny!)
+
+- Added properly named PNG files and FaceData.bin files for DLC pack 1 and 2 in Resources/img/Not_Yet_Used/. Still needs to be implemented, however.
+
 # V1.2.4 Changelog
 
 - Made Corrin's default hair the canonical white color instead of grey.

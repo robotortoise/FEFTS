@@ -259,8 +259,8 @@ CASTLE_黒村人女	Shopkeep
 ルフレ	Robin
 ？？？	???
 クロム	Chrom
-クロム右	Chrom(right)
-クロム左	Chrom(left)
+クロム右	Chrom
+クロム左	Chrom
 リズ	Lissa
 フレデリク	Frederick
 金ノスフェラトゥ	Gold Faceless
