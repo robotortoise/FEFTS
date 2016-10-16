@@ -12,12 +12,6 @@ Simulates Fire Emblem Fates conversations, allows for the generation of portrait
 
 == Things that still need to be done ==
 
-- Velouria should be put in her correct place in the portrait generator, and named properly.
+- See if the font can be used for the generated text instead of the PNG, for higher-resolution images.
 
-- There are two extra Kanas in the list with Japanese names.
-
-- See if the font can be used for the generated text instead of the PNG.
-
-- Add "Hidden Truths" Vallite portraits, Shigure wearing Azura's Pendant, and Ghost Azura portraits.
-
-- Add canon hair color "Hidden Truths" children portraits.
+- Implement DLC portraits. Portraits, along with FaceData.bin files, are located in FEFTS\Resources\img\Not_Yet_Used\.
