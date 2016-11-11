@@ -84,7 +84,7 @@ Yukimura	6E868E
 Reina	5B7396
 Niles	F5F3F0
 Zola	C8B994
-Corrin 1	F6F4EF
+Corrin 1 (Default)	F6F4EF
 Corrin 2	C35855
 Corrin 3	D38969
 Corrin 4	EDDBC5

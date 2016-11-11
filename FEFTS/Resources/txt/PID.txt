@@ -111,8 +111,8 @@ CASTLE_黒村人女	Shopkeep
 部族兵	Tribalist
 異邦の兵	Foreigner
 謎の兵	Invader
-賊	Ruffian
-村人	Villager
+賊	Ruffians
+村人	Villagers
 魔物	Monster
 傭兵団	Mercenary
 花売り	Flower Girl
@@ -226,12 +226,12 @@ CASTLE_黒村人女	Shopkeep
 絆_透透_18	Charis
 リリス	Lilith
 リリス竜	Lilith
-ゴーレムＡ	Golem A
-ゴーレムＢ	Golem B
-ゴーレムＣ	Golem C
-絡繰人形・甲	Puppet A
-絡繰人形・乙	Puppet B
-絡繰人形・丙	Puppet C
+ゴーレムＡ	Stoneborn A
+ゴーレムＢ	Stoneborn B
+ゴーレムＣ	Stoneborn C
+絡繰人形・甲	Automaton A
+絡繰人形・乙	Automaton B
+絡繰人形・丙	Automaton C
 闘技者	Opponent
 ララ	Layla
 ロンタオ	Anthony
@@ -252,7 +252,7 @@ CASTLE_黒村人女	Shopkeep
 忍	Ninja
 虹の賢者	Rainbow Sage
 カシータ	Cassita
-フードマン	Hooded Anankos
+フードマン	???
 マルス	Marth
 アイク	Ike
 ルキナ	Lucina
@@ -263,7 +263,7 @@ CASTLE_黒村人女	Shopkeep
 クロム左	Chrom
 リズ	Lissa
 フレデリク	Frederick
-金ノスフェラトゥ	Gold Faceless
+金ノスフェラトゥ	Faceless
 ウード	Owain
 アズール	Inigo
 セレナ	Severa
