@@ -1,6 +1,8 @@
 # FEFTS
 Fire Emblem Fates Text Simulator
 
+ATTENTION: THIS PROJECT IS OUT OF DATE. PLEASE READ THE END OF THIS DOCUMENT FOR MORE DETAILS.
+
 
 Forked from https://github.com/SciresM/FEITS .
 Credit to SciresM for the original program. I only localized the names and fixed a few things.
@@ -34,3 +36,10 @@ Simulates Fire Emblem Fates conversations, allows for the generation of portrait
 9. If possible, animate the text to resemble the in-game text.
 
 10.  Add music and voice support so this program can be used to render supports, rendering a 3DS capture card unnecessary to make videos of realistic custom supports.
+
+
+DEPRECATION as of 5/27/2020:
+
+This project has not been and will not be updated further. For a more comprehensive, easier to use solution, please use this tool: https://gitlab.com/secretivecactus/fe-conversation-editor
+
+-Jordan
